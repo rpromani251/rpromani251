@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Scikit-learn, Full-Stack Web Development**
 
+- ⚡ I'm also preparing for my first coding competition in February --> **Lockheed Martin Code Quest**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/robert_rowmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robert_rowmani" height="30" width="40" /></a>
