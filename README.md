@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Scikit-learn, Full-Stack Web Development**
 
-- ⚡ I'm also preparing for my first coding competition in February --> **Lockheed Martin Code Quest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
