@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A high-school student interested in Natural Language Processing!</h3>
+<h3 align="center">A college student studying Computer Science at MIT! </h3>
 
 - 🔭 I’m currently working on **Naive Bayes Classifier in Java**
 
