@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A college student studying Computer Science at MIT! </h3>
+<h1 align="center">Hi, I'm Robert</h1>
+<h3 align="center">Mathematics @ MIT '28</h3>
 
-- 🔭 I’m currently working on **Naive Bayes Classifier in Java**
-
-- 🌱 I’m currently learning **Scikit-learn, Full-Stack Web Development**
 
 
 <h3 align="left">Connect with me:</h3>
